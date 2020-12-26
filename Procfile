@@ -1,0 +1,1 @@
+web: gunicorn goelocation.wsgi --log-file -
