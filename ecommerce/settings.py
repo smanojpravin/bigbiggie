@@ -30,7 +30,7 @@ SECRET_KEY = '!cpva=go@i69=ep_7&0!!20@cna^tynzil=_k+ov(d@iwt_md='
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["bigbiggie.herokuapp.com","127.0.0.1:8000"]
 
 
 # Application definition
